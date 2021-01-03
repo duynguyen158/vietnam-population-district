@@ -1,7 +1,7 @@
 ([See English version.](#population-of-vietnam-by-district))
 
 # Dân số Việt Nam, cấp huyện
-Repo này cung cấp số liệu về dân số Việt Nam theo thành thị - nông thôn và giới tính đối với từng đơn vị hành chính cấp huyện (ĐVHCCH), tính đến ngày 1/4/2019, dưới định dạng CSV. Số liệu được lấy từ Biểu 1 của báo cáo ["Kết quả toàn bộ Tổng điều tra dân số và nhà ở năm 2019"](http://tongdieutradanso.vn/uploads/data/6/files/files/Ket%20qua%20toan%20bo%20Tong%20dieu%20tra%20dan%20so%20va%20nha%20o%202019_ca%20bia_compressed.pdf) của Tổng cục Thống kê. (Bạn đọc quan tâm đến kế hoạch và phương thức Tổng điều tra có thể tham khảo tại [đây](http://tongdieutradanso.vn/uploads/data/6/files/files/Ke%20hoach%20Tong%20dieu%20tra%202019.pdf).)
+Repo này cung cấp số liệu về dân số Việt Nam theo thành thị - nông thôn và giới tính đối với từng đơn vị hành chính cấp huyện (ĐVHCCH), tính đến ngày 1/4/2019, dưới định dạng CSV. Số liệu được lấy từ Biểu 1 của báo cáo ["Kết quả toàn bộ Tổng điều tra dân số và nhà ở năm 2019"](http://tongdieutradanso.vn/uploads/data/6/files/files/Ket%20qua%20toan%20bo%20Tong%20dieu%20tra%20dan%20so%20va%20nha%20o%202019_ca%20bia_compressed.pdf) của Tổng cục Thống kê. (Bạn đọc quan tâm đến kế hoạch và phương thức Tổng điều tra có thể tham khảo [tại đây](http://tongdieutradanso.vn/uploads/data/6/files/files/Ke%20hoach%20Tong%20dieu%20tra%202019.pdf).)
 
 ### Chú thích
 Cột | Giải thích
