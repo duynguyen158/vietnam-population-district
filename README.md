@@ -56,7 +56,7 @@ total_rural_male | Total rural population, male
 total_rural_female | Total rural population, female
 
 ### Notes
-- At the time of writing, Hoang Sa District, of Da Nang Province, is not included in the data source (i.e. Table 1 of the published results), and therefore is not included in the digital dataset provided by this repository.
+- At the time of writing, Hoang Sa District, of Da Nang Province, is not included in the data source (i.e. Table 1 of the published results), and, therefore, is not included in the digital dataset provided by this repository.
 - Save for a few exceptions (more below), the list of district-level entities of the source — and, therefore, of this dataset — reflects administrative boundaries at the time the data were collected (April 1, 2019) instead of those of today. Discrepancies may include, but are not limited to, district-level entities created, removed, or type-changed by the Vietnamese government.
 - Dong Xoai Town, of Binh Phuoc Province, became Dong Xoai City on December 1, 2018, under Resolution 587/NQ-UBTVQH14 passed by the National Assembly Standing Committee (NASC). This change is not reflected in the source, but it is in the data provided by this repository.
 - Chi Linh Town, of Hai Duong Province, became Chi Linh City on March 1, 2019, under Resolution 623/NQ-UBTVQH14 passed by NASC. This change is not reflected in the source, but it is in the data provided by this repository.
