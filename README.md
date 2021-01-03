@@ -1,7 +1,7 @@
 ([See English version.](#population-of-vietnam-by-district))
 
 # Dân số Việt Nam, cấp huyện
-Repo này cung cấp số liệu về dân số Việt Nam theo thành thị - nông thôn và giới tính đối với từng đơn vị hành chính cấp huyện (ĐVHCCH), tính đến ngày 1/4/2019, dưới định dạng CSV. Số liệu được lấy từ Biểu 1 của báo cáo ["Kết quả toàn bộ Tổng điều tra dân số và nhà ở năm 2019"](http://tongdieutradanso.vn/uploads/data/6/files/files/Ket%20qua%20toan%20bo%20Tong%20dieu%20tra%20dan%20so%20va%20nha%20o%202019_ca%20bia_compressed.pdf) của Tổng cục Thống kê. 
+Repo này cung cấp số liệu về dân số Việt Nam theo thành thị - nông thôn và giới tính đối với từng đơn vị hành chính cấp huyện (ĐVHCCH), tính đến ngày 1/4/2019, dưới định dạng CSV. Số liệu được lấy từ Biểu 1 của báo cáo ["Kết quả toàn bộ Tổng điều tra dân số và nhà ở năm 2019"](http://tongdieutradanso.vn/uploads/data/6/files/files/Ket%20qua%20toan%20bo%20Tong%20dieu%20tra%20dan%20so%20va%20nha%20o%202019_ca%20bia_compressed.pdf) của Tổng cục Thống kê. (Bạn đọc quan tâm đến kế hoạch và phương thức Tổng điều tra có thể tham khảo tại [đây](http://tongdieutradanso.vn/uploads/data/6/files/files/Ke%20hoach%20Tong%20dieu%20tra%202019.pdf).)
 
 ### Chú thích
 Cột | Giải thích
@@ -29,12 +29,12 @@ total_rural_female | Tổng số dân nông thôn, nữ
 - Thị xã Chí Linh, thuộc Tỉnh Hải Dương, trở thành Thành phố Chí Linh vào ngày 1/3/2019 theo Nghị quyết 623/NQ-UBTVQH14 nhưng vẫn được đề cập trong Biểu 1 dưới tư cách là thị xã. Dữ liệu trong repo đã được cập nhật để phản ánh thay đổi này.
 
 ### Phương pháp thu thập
-Số liệu được nhập trực tiếp vào trang tính bằng tay, rồi kiểm tra và xuất ra dưới định dạng CSV. Nếu bạn tìm thấy sai sót, xin hãy mở Issue.
+Số liệu được nhập trực tiếp vào trang tính bằng tay, rồi kiểm tra và xuất ra dưới định dạng CSV. Nếu bạn đọc tìm thấy sai sót, xin hãy mở Issue.
 
 ___
 
 # Population of Vietnam by District
-This repository provides population numbers by urban-rural status and sex in over 700 district-level entities in Vietnam. Data are retrieved from Table 1 of published results from the [decennial nationwide census](http://tongdieutradanso.vn/uploads/data/6/files/files/Ket%20qua%20toan%20bo%20Tong%20dieu%20tra%20dan%20so%20va%20nha%20o%202019_ca%20bia_compressed.pdf) conducted by the General Statistics Office (GSO) in 2019, and up-to-date as of April 1, 2019.
+This repository provides population numbers by urban-rural status and sex in over 700 district-level entities in Vietnam. Data are retrieved from Table 1 of published results from the [decennial nationwide census](http://tongdieutradanso.vn/uploads/data/6/files/files/Ket%20qua%20toan%20bo%20Tong%20dieu%20tra%20dan%20so%20va%20nha%20o%202019_ca%20bia_compressed.pdf) conducted by the General Statistics Office (GSO) in 2019, and up-to-date as of April 1, 2019. (You can read more about the Census methodology [here](http://tongdieutradanso.vn/uploads/data/6/files/files/2019_Census_Plan_Eng.pdf).)
 
 ### Definitions
 Field | Definition
